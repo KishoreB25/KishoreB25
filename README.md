@@ -1,19 +1,48 @@
 <div align="center">
 
 ```
-        ██╗  ██╗██╗███████╗██╗  ██╗ ██████╗ ██████╗ ███████╗
-        ██║ ██╔╝██║██╔════╝██║  ██║██╔═══██╗██╔══██╗██╔════╝
-        █████╔╝ ██║███████╗███████║██║   ██║██████╔╝█████╗  
-        ██╔═██╗ ██║╚════██║██╔══██║██║   ██║██╔══██╗██╔══╝  
-        ██║  ██╗██║███████║██║  ██║╚██████╔╝██║  ██║███████╗
-        ╚═╝  ╚═╝╚═╝╚══════╝╚═╝  ╚═╝ ╚═════╝ ╚═╝  ╚═╝╚══════╝
+██╗  ██╗██╗███████╗██╗  ██╗ ██████╗ ██████╗ ███████╗
+██║ ██╔╝██║██╔════╝██║  ██║██╔═══██╗██╔══██╗██╔════╝
+█████╔╝ ██║███████╗███████║██║   ██║██████╔╝█████╗  
+██╔═██╗ ██║╚════██║██╔══██║██║   ██║██╔══██╗██╔══╝  
+██║  ██╗██║███████║██║  ██║╚██████╔╝██║  ██║███████╗
+╚═╝  ╚═╝╚═╝╚══════╝╚═╝  ╚═╝ ╚═════╝ ╚═╝  ╚═╝╚══════╝
 ```
 
+<br>
+
+<a href="mailto:kishoreb2506@gmail.com">
+  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+<a href="https://www.linkedin.com/in/kishore-b-245a66343/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<a href="https://instagram.com/yourhandle" target="_blank">
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+</a>
+
 </div>
 
-<div align="center">
-  <img src="https://giphy.com/gifs/ign-describe-plans-13HBDT4QSTpveU" width="450" alt="Coding GIF" />
-</div>
+<br>
+
+<table>
+  <tr>
+    <td valign="middle" width="300">
+      <img src="https://media.giphy.com/media/Sm9AfJRiZofjlrkAAl/giphy.gif" width="280" alt="Cat GIF" />
+    </td>
+    <td valign="middle">
+      <pre>
+ __  __                       
+|  \/  | ___  _____      __   
+| |\/| |/ _ \/ _ \ \ /\ / /  
+| |  | |  __/ (_) \ V  V /   
+|_|  |_|\___|\___/ \_/\_/    
+                              
+  Meow.exe is running... 🐾  
+      </pre>
+    </td>
+  </tr>
+</table>
 
 <br>
 
@@ -46,23 +75,5 @@
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
-
-</div>
-
-<br>
-
-### 📫 Connect with me
-
-<div align="center">
-
-<a href="kishoreb2506@gmail.com">
-  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
-<a href="https://www.linkedin.com/in/kishore-b-245a66343/" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-<a href="https://instagram.com/yourhandle" target="_blank">
-  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-</a>
 
 </div>
