@@ -1,26 +1,19 @@
 <div align="center">
 
 ```
-██╗  ██╗██╗███████╗██╗  ██╗ ██████╗ ██████╗ ███████╗
-██║ ██╔╝██║██╔════╝██║  ██║██╔═══██╗██╔══██╗██╔════╝
-█████╔╝ ██║███████╗███████║██║   ██║██████╔╝█████╗  
-██╔═██╗ ██║╚════██║██╔══██║██║   ██║██╔══██╗██╔══╝  
-██║  ██╗██║███████║██║  ██║╚██████╔╝██║  ██║███████╗
-╚═╝  ╚═╝╚═╝╚══════╝╚═╝  ╚═╝ ╚═════╝ ╚═╝  ╚═╝╚══════╝
+        ██╗  ██╗██╗███████╗██╗  ██╗ ██████╗ ██████╗ ███████╗
+        ██║ ██╔╝██║██╔════╝██║  ██║██╔═══██╗██╔══██╗██╔════╝
+        █████╔╝ ██║███████╗███████║██║   ██║██████╔╝█████╗  
+        ██╔═██╗ ██║╚════██║██╔══██║██║   ██║██╔══██╗██╔══╝  
+        ██║  ██╗██║███████║██║  ██║╚██████╔╝██║  ██║███████╗
+        ╚═╝  ╚═╝╚═╝╚══════╝╚═╝  ╚═╝ ╚═════╝ ╚═╝  ╚═╝╚══════╝
 ```
 
 </div>
 
-<h1 align="center">Hi 👋, I'm Kishore B</h1>
-<h3 align="center">B.Tech CSE (AI) student building practical, India-first AI applications 🚀</h3>
-
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212749168-86d6c7ab-98da-409b-998f-c5b74721badd.gif" width="450" alt="Coding GIF" />
+  <img src="https://giphy.com/gifs/ign-describe-plans-13HBDT4QSTpveU" width="450" alt="Coding GIF" />
 </div>
-
-<br>
-
-🎓 B.Tech CSE (AI) @ Amrita Vishwa Vidyapeetham &nbsp;|&nbsp; 🏆 Hackathon & ideathon regular across AI, cybersecurity & full-stack &nbsp;|&nbsp; 📄 Published researcher in applied ML (Springer, MDPI)
 
 <br>
 
@@ -62,7 +55,7 @@
 
 <div align="center">
 
-<a href="mailto:kishoreb2506@gmail.com">
+<a href="kishoreb2506@gmail.com">
   <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 <a href="https://www.linkedin.com/in/kishore-b-245a66343/" target="_blank">
