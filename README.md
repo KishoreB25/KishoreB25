@@ -1,19 +1,5 @@
 
-<!--
-**KishoreB25/KishoreB25** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-<!-- 
 <h1 align="center">Hi 👋, I'm Kishore B</h1>
 <h3 align="center">B.Tech CSE (AI) student building practical, India-first AI applications 🚀</h3>
 
@@ -76,8 +62,8 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
 </a>
 
-</p> -->
-<div align="center">
+</p>
+<!-- <div align="center">
 
 ```text
 ██╗  ██╗██╗███████╗██╗  ██╗ ██████╗ ██████╗ ███████╗
@@ -150,17 +136,6 @@ Building AI-powered applications with LLMs, FastAPI and modern web technologies.
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=KishoreB25&show_icons=true&theme=github_dark&hide_border=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KishoreB25&layout=compact&theme=github_dark&hide_border=true"/>
-
-</div>
-
----
 
 ## 📫 Connect With Me
 
@@ -178,4 +153,4 @@ Building AI-powered applications with LLMs, FastAPI and modern web technologies.
 <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
 </a>
 
-</div>
+</div> -->
